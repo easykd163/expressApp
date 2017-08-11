@@ -1,7 +1,12 @@
->>version1.0
-1.add new dump function
-2.add excel import
+******************************************
+** Revision History For expressApp
+******************************************
+Version 2.0 
+-1.del employee
+-2.print
 
->>version2.0
-1.del employee
-2.print
+Version 1.0
+-1.add new dump function
+-2.add excel import
+
+
