@@ -1,0 +1,7 @@
+>>version1.0
+1.add new dump function
+2.add excel import
+
+>>version2.0
+1.del employee
+2.print
