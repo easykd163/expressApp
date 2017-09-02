@@ -11,6 +11,7 @@ Version: 2.0
     2.print
 
 Version: 1.0
+MD5/SHA1: BC367997EA144A01255E6AF484ADE278
 Remark:
 1.add new dump function
 2.add excel import
