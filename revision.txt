@@ -1,12 +1,17 @@
 ******************************************
 ** Revision History For expressApp
 ******************************************
-Version 2.0 
--1.del employee
--2.print
+Version: 2.0
+  File: app_ver2.0.zip
+  MD5/SHA1: BC367997EA144A01255E6AF484ADE278
+  autoURL: 
+  manualURL: 
+  Remark:
+    1.del employee
+    2.print
 
-Version 1.0
--1.add new dump function
--2.add excel import
-
+Version: 1.0
+Remark:
+1.add new dump function
+2.add excel import
 
