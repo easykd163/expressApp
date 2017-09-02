@@ -3,7 +3,7 @@
 ******************************************
 Version: 2.0
 File: app_ver2.0.zip
-MD5: BC367997EA144A01255E6AF484ADE278
+MD5: C0F652F50D2C7D51F1BB93B9D3B43610
 autoURL: 
 manualURL: 
 Remark:
